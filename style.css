@@ -5,13 +5,6 @@ body {
 /*	font-size: 18pt;*/
 }
 
-a {
-	color: #5284ff;
-}
-a:visited {
-	color: #6b51ff;
-}
-
 h1 { 
 /*	font-size: 1.5em; */
 	font-weight: bold;
@@ -25,6 +18,7 @@ h3 {
 }
 h4 { 
 /*	font-size: 1.0625em; */
+	font-weight: bold;
 }
 h5 { 
 /*	font-size: 1.0em; */
