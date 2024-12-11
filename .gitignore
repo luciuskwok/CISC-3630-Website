@@ -1,0 +1,16 @@
+# gitignore
+
+*.psd
+*.orig
+.hg*
+
+# Jekyll created folders
+.jekyll_cache/
+.jekyll-cache/
+_site/
+
+# macOS
+.DS_Store
+
+# Folders and files beginning with parentheiss
+\(*
